@@ -50,10 +50,21 @@
 
 <hr/>
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+     <p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
 <p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
-
-
-<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
