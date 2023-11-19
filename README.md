@@ -53,6 +53,9 @@
 <p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
 
 
+<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
+
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
