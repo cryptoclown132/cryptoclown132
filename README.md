@@ -50,7 +50,7 @@
 
 <hr/>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics" width="400"></p>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
